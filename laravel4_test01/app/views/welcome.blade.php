@@ -1,0 +1,1 @@
+<h1>Bienvenidos a Laravel 4</h1>
